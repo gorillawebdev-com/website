@@ -1,4 +1,4 @@
-0000.001 (0) Opened log file at time: Thu, 06 Jul 2023 15:21:42 +0000 on http://localhost:3000
+0000.001 (0) Opened log file at time: Thu, 06 Jul 2023 15:21:42 +0000 on 
 0000.022 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.7 WP: 6.2.2 PHP: 8.0.0 (cli-server, Windows NT DESKTOP-ORVLL5U 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.33 (max packet size=67108864) WPLANG: en_CA Server: PHP 8.0.0 Development Server safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 61.9M | 8M) multisite: N openssl: OpenSSL 1.1.1h  22 Sep 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
 0000.044 (0) Free space on disk containing Updraft's temporary directory: 850999.7 MB
 0000.067 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
